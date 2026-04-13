@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there  I am SISRIKSHA👋 
 
 
-**Dhakal1997/Dhakal1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dhakal1997/Sisriksha Dhakal** 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on `data analysis projects using Python, SQL, and Excel, including dashboards and automation tools for reporting.`
 - 🌱 I’m currently learning `advanced data analytics, machine learning basics, and building data apps with Streamlit and Flask.`.
